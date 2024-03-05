@@ -1,6 +1,6 @@
 # 次元链接机场官网地址
 
-最新地址：[cylink.info](https://cylink.wtf/auth/register?code=2K6O)
+最新地址：[cylink.blog](https://cylink.blog/auth/register?code=IpXv)
 
 ## 次元链接机场介绍
 
@@ -12,13 +12,13 @@
 
 ## 次元链接优惠码
 
-想给家里的孩子买61礼物，放个优惠码透支未来营收。
+新年优惠：
 
-优惠码： 666111
+优惠码：`2024`
 
-优惠额度：12% off
+有效期截止 2024年2月15日晚
 
-优惠有截至：6月1日24点。
+优惠额度： 15% off
 
 ## 特色
 
